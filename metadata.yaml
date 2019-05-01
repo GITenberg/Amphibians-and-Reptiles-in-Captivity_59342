@@ -1,0 +1,26 @@
+_repo: Amphibians-and-Reptiles-in-Captivity_59342
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bader, Robert N.
+    gutenberg_agent_id: '50403'
+    url: http://www.gutenberg.org/2009/agents/50403
+  - agent_name: Coxwell, Donald J.
+    gutenberg_agent_id: '50404'
+    url: http://www.gutenberg.org/2009/agents/50404
+  - agent_name: Johnson, Tom R.
+    gutenberg_agent_id: '50402'
+    url: http://www.gutenberg.org/2009/agents/50402
+description: ''
+gutenberg_issued: '2019-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Amphibians and Reptiles in Captivity
+url: http://www.gutenberg.org/ebooks/59342
